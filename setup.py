@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django-sync-package",
-    version="0.1.0",
+    version="0.2.0",
     author="Abdulla Fajal",
     author_email="abdullafajal@gmail.com",
     description="A Django package for database synchronization",
